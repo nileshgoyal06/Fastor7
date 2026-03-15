@@ -12,6 +12,6 @@ Implements public enquiry capture and employee workflows to claim leads. Authent
 Features:
 - Employee register / login / logout
 - Public enquiry submission (no auth)
-- View unclaimed enquiries (auth required)
+- View unclaimed enquiries
 - Claim an enquiry (auth required)
 - View enquiries claimed by logged-in employee (auth required)
